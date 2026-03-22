@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "karoo",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "Sefako61"
+        }
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
