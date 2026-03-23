@@ -9,7 +9,7 @@
             "name": "karoo",
             "database": "postgres",
             "username": "postgres",
-            "password": "Sefako61"
+            "password": ""
         }
     ],
     "python-envs.defaultEnvManager": "ms-python.python:system"
