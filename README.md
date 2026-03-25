@@ -1,6 +1,6 @@
 # karoo-capstone1-Kamogelo-Makgeru
 
-📄 Design & Implementation Overview
+Design & Implementation Overview
 Database Design
 
 I was initially provided with three tables. Based on the project requirements, I extended the schema by creating two additional tables and refining the structure for better normalization and relationships.
@@ -38,7 +38,7 @@ Analytics
 
 Once the data was successfully loaded, I executed analytical SQL queries to extract insights from the database.
 
-⚙️ Summary
+ Summary
 
 This project involved:
 
